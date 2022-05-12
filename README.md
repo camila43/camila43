@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camila43
 - 👀 I’m interested in  aprender programação
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning  a programar em scratch  e javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
